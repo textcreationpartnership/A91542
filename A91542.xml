@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peace and plenty comming unto us, if we be willing to entertain them and will bid them welcome: manifested in some observations upon the motion lately made by certain persons sitting usually at Salters-Hall in Bread-street London, and there imployed about raising of new regiments of horse and foot: viz. that all well-affected families and persons would forbear one meal in a week, and give the value thereof, for, and toward the raising and maintaining of the said regiments. Written by one, who hath heard and seen somewhat said and done, for and against the same motion, and desireth that it may be more fully understood and furthered, tending (as he conceiveth) so much unto the publique good.</title>
+            <author>One who hath heard and seen somewhat said and done for and against the same motion.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91542</idno>
+            <idno type="STC">Wing P918</idno>
+            <idno type="STC">Thomason E102_12</idno>
+            <idno type="STC">ESTC R1973</idno>
+            <idno type="EEBO-CITATION">99860728</idno>
+            <idno type="PROQUEST">99860728</idno>
+            <idno type="VID">112853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112853)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E102[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peace and plenty comming unto us, if we be willing to entertain them and will bid them welcome: manifested in some observations upon the motion lately made by certain persons sitting usually at Salters-Hall in Bread-street London, and there imployed about raising of new regiments of horse and foot: viz. that all well-affected families and persons would forbear one meal in a week, and give the value thereof, for, and toward the raising and maintaining of the said regiments. Written by one, who hath heard and seen somewhat said and done, for and against the same motion, and desireth that it may be more fully understood and furthered, tending (as he conceiveth) so much unto the publique good.</title>
+                  <author>One who hath heard and seen somewhat said and done for and against the same motion.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Rothwell, and are to be sold at his Shop at the signe of the Sun in Pauls Church yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 19. MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Recruiting, enlistment, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112853:1" rendition="simple:additions"/>
+            <p>PEACE and PLENTY comming unto us, If we be willing to entertain them and will bid them welcome: Manifeſted in ſome Obſervations upon the Motion lately made by certain perſons ſitting uſually at Salters-H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll in Bread-ſtreet <hi>London,</hi> and there imployed about raiſing of new Regiments of HORSE and FOOT:</p>
+            <p>
+               <hi>Viz.</hi>
+               <lb/>
+That all well-affected Families and Perſons would forbear one Meal in a Week, and give the value thereof, for, and toward the Raiſing and Main<g ref="char:EOLhyphen"/>taining of the ſaid Regiments.</p>
+            <p>
+               <hi>Written by one, who hath heard and ſeen ſomewhat ſaid and done, for and againſt the ſame Motion,</hi> And deſireth that it may be more fully underſtood and fur<g ref="char:EOLhyphen"/>thered, tending (as he conceiveth) ſo much unto the Publique good.</p>
+            <p>LONDON, Printed for <hi>John Rothw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi> and are to be ſold at his Shop at the ſigne of the Sun in <hi>Pauls</hi> Church yard. <hi>May</hi> 19. MDCXLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112853:2"/>
+            <pb n="1" facs="tcp:112853:2"/>
+            <head>Peace and Plenty coming unto us, if we be willing to entertain them, and will bid them welcome.</head>
+            <p n="1">1. <seg rend="decorInit">N</seg>Ow <hi>Ireland,</hi> (from whence we formerly received much food) is ſo waſted, that it muſt be ſupplyed from <hi>England,</hi> or elſe be pined; and now ſo many parts of <hi>England</hi> are alſo already, and the reſt very likely without Gods great mercy, before it belong to be in no better condition: this Motion like the I epers news, 2 <hi>King.</hi> 7. bringeth the glad ti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings of peace and plenty. If we as the unbeleeving Lord th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, will not reject it as impoſſible; but as the Samaritans there make triall of it. Of peace; for as the Syrians there fled at the noyſe of Chariots and Horſes, ſo happily may our enemies ſhortly hearing of theſe forces added unto the former, ſent out againſt them, or elſe by the righteous judgement of God fall in battle before them, Of plenty: For if <hi>London</hi> begin, and <hi>England</hi> (except where the enemies Armies hinder) follow her example, and abſtain thus betime (as we may hope <hi>England,</hi> for ſo great a good will eaſily b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perſwaded to ſo ſmall a thing) then will plenty alſo follow, if the Lord pleaſe.</p>
+            <p n="2">2. If this Motion (in this particular deſigne) ſucceed well, it may perhaps ſhew this to be the beſt way to furniſh all the neceſſities of the State, and move the Parliament, allowing only a part of the Monies raiſed hereby unto theſe new Regiments (who may levy the ſame in and within miles of <hi>London)</hi> to extend this way of raiſing money and the Kingdom over; and if they finde it to yeeld a ſufficient ſupply, eaſe themſelves, and the people thereby, of, and from all other payments And this (unto ſome that have ſeriouſly conſidered there<g ref="char:EOLhyphen"/>of) ſeemeth not improbable. For if but the willing party would ſay unto the Parliament; We will cheerfully abſtain from one meal in a week, and give you the value thereof, (yea from two if there be cauſe)
+<pb n="2" facs="tcp:112853:3"/>
+ſo by an ordinance you will compell the Malignants to do the like: who can doubt but that the Parliament would readily anſwer; We will give power, if the Malignants refuſe to pay their part, to diſtrain them for three times as much as they ſhall be aſſeſſed at, and alſo free you from all other payments, if we finde theſe to be ſufficient, as in truth they will readily appear to be; if, what one meals meat in all <hi>England</hi> cometh unto, be but reckoned and caſt up, at a very eaſie and under rate.</p>
+            <p n="3">3 By this a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtinence the rich men once in a week, may have the poor mans pleaſant appetite: which alas they loſe or leſſen by their continuall plenteous feeding, as <hi>Salomon</hi> ſheweth, <hi>prove.</hi> 27. 7. <hi>The full ſoul loath them honey-comb, but to the hungry ſoul every bitter thing is <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>weet.</hi> The rich, what ſauces are they ſain to ſharpen their app<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tites with? when by this a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtinence they may finde a delight<g ref="char:EOLhyphen"/>full taſte of every diſh, yea, and withall have the favour of God, and the love of their Countries. The poor (the poorer they are, even down to the Almeſman) in ſome reſpects have more reaſon to ab<g ref="char:EOLhyphen"/>ſtain, and caſt in their mites; for, poor ſouls, they are not able many other wayes (as the rich are) to expreſſe their love unto their Coun<g ref="char:EOLhyphen"/>trie: but this way they may, yea and highly pleaſe God thereby (as the widow of <hi>Zarephath</hi> did, by making <hi>Elijah</hi> a little cake firſt, of that handfull of meal which was all that ſhe had left, 1. <hi>Kings</hi> 17.) and withall, either provoke the rich to follow their examples, or ſhame them before God and men, if they will not. Again, famine firſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illeth the poor and the pooreſt firſt of all: and according to the degree of their poverty is plenty the greateſt bleſſing unto them; therefore they have moſt reaſon to ſtrive moſt to avoid famine, and to procure plenty: wherefore let them (for example ſake) give even the fou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teenth farthing given to buy them food, if for the preſent they can give it, and live; therein ſhall they do wiſely for themſelves, for none of thoſe that are more able (ſeeing them that are ſo poor, to do this) will be ſo ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>meleſſe to refuſe to do their parts, to avoid fa<g ref="char:EOLhyphen"/>mine and to procure plenty. Yea God will move others to enlarge themſelves, in relieving ſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h poor, as they ſee (even of their nothing) yet to give ſomething to ſupport the Comman-wealth.</p>
+            <p n="4">4 If this be done univerſally, victuall muſt needs be the four<g ref="char:EOLhyphen"/>teenth pen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie cheaper, and thereby one penn ewill be gained in eve<g ref="char:EOLhyphen"/>ry fourteen laid out for victuall, ſo that what one of <hi>Jacobs</hi> ſons ſaid, <hi>Gen.</hi> 42. 28. <hi>My money to reſtored, and ſo, it us even in my ſack:</hi> every
+<pb n="3" facs="tcp:112853:3"/>
+one may as truly affirm of what he thus ſpareth and giveth, that it is reſtored, for he ſhall pay ſo much the leſſe for another weeks provi<g ref="char:EOLhyphen"/>ſion, and the longer he giveth it, ſtill ſo much the leſſe, for it will be ſo much the more plentifull, and by conſequence the cheaper; which may move the covetous to contribute it, becauſe it will be gainfull unto him: and much more if it ſhall (as if it be obſerved generally it will) exempt him alſo from all other impoſitions. The money thus raiſed is better unto <hi>England,</hi> then if <hi>Holland</hi> or any forraign State gave it: for it is not onely gained, but bringeth as (as it were in) all the victuall which we ſave thereby.</p>
+            <p n="5">5 If two men in every Pariſh went with two Books, the one vvith a vvhite book, and the other vvith a black book: and record<g ref="char:EOLhyphen"/>ed in the vvhite book the names of all that by this beneficence be<g ref="char:EOLhyphen"/>came bene factors unto their Countrey, and in the black book theirs that refuſed, to the perpetuall honour of the one, and infamy of the other and their poſterities (as a wittie <hi>Florentine</hi> in time of famine adviſeth to do) ſurely very few would be ſet down in the black book: for the greateſt Malignants beſide the avoiding of ſuch ſhame) would alſo fear left the Parliament might impoſe more upon them, if they refuſed this, and thereby ſhewed the height of their ma<g ref="char:EOLhyphen"/>lignancy, which moved them even vvith their own damage, to en<g ref="char:EOLhyphen"/>deavour the undoing of the Common-wealth: and that all their neighbors would ready to leavie vvhat they vvere aſſeſſed at with zeal enough.</p>
+            <p n="6">6 In beſieged Cities (for ſaving of victuall) it hath been uſuall to put out innocent old men, women and children; yea, though they were expoſed thereby unto the pleaſure of the enemy: how much more do ſuch as refuſe this abſtinence and contribution deſerve to be thruſt out, from eating up that which is brought in to ſuſtain this City? yea to be thruſt not onely out of the City but out of the king<g ref="char:EOLhyphen"/>dom alſo, toward both which (doubtleſſe) they can bear no good affection, who ſhall refuſe to do ſo litle for their preſervation and happineſſe.</p>
+            <p n="7">7 All that are religious and lovers of their Country, with all rea<g ref="char:EOLhyphen"/>dineſſe and alacrity will abſtain from, and give the value of the beſt ordinary meal in their families once every week, and not inconſide<g ref="char:EOLhyphen"/>rately object that their children and ſervants will ea% as much either before or after ſuch abſtinence, as they ſpare by forbearing that meale. For if in a beſieged City, the victuall can be, and uſually is
+<pb n="4" facs="tcp:112853:4"/>
+proportioned, ſo as it may hold out happily untill the ſiege be raiſed; how much eaſier may this be done by a man in his family, if he be Maſter in his own houſe; and if in a ſiege, ſeven ſmall meals in a week, would be as ſo many feaſts, and men and women be ſo well contented to feed more ſparingly many dayes, that they might rejoyee with their friends upon a feaſt day: will they not now abſtain from one meal in a week, to avoid warre and famine, and to procure peace, plenty, and many joyfull feaſts? If any (unterrified by the judge<g ref="char:EOLhyphen"/>ments which fell upon <hi>Ananias</hi> and <hi>Saphirah)</hi> ſhall keep back a part of the price, by eſtimating the families meal at too low a value (be<g ref="char:EOLhyphen"/>ſide their preſent baſeneſſe, manifeſted thereby unto all the Pariſh) the Parliament if they pleaſe to exerciſe their power therein, can eaſily appoint ſome of their neighbours, to give them a juſt and true reckoning what a meals meat for ſo many mouths, as they have in their familes cometh unto (which would make but little for their credits) and if they refuſed to pay it, authoriſe ſome to levy the ſame (as in the like caſes they have done) by diſtreſſe, and ſale of ſuch Recuſants goods and chattels.</p>
+            <p n="8">8. If any be grieved, that for the cooking of dinners on the Lords dayes, ſome of their family cannot be at Gods publike worſhip in the morning; or that in the afternoon in the like duties, they are too drouſie and ſleepy. Behold hereby a remedy for both, They may take (inſtead of a dinner) only ſo much as will keep them from fainting; and at ſupper (which though but ordinary, will ſeem a feaſt) they may rejoyce that more have been at Gods worſhip, and all become fit<g ref="char:EOLhyphen"/>ter by this abſtinence to worſhip him; and that no work (as ſome per<g ref="char:EOLhyphen"/>haps, if this abſtinence were on a working day would conceive) were hindered thereby. And for doing of this, no man can doubt that his God will be offended, unleſſe his God be his belly, as the Apoſtle, <hi>Phil.</hi> 3. 19. ſheweth ſome mens are.</p>
+            <p n="9">9. If we will do thus much for our ſelves, we ſhall alſo hereby ſhew unto our Brethren of <hi>Scotland,</hi> how without their own coſt or ours, they alſo (if need require) may do the like, and thereby raiſe and maintain their forces, and come and help us: as we (reciprocally) ſhall be ready to do for them, whenſoever our aſſiſtance may do them good.</p>
+            <p n="10">10. <hi>Joſeph</hi> an accuſed ſtranger, and priſoners advice being heark<g ref="char:EOLhyphen"/>ned unto (when no danger appeared, but by a dream) what good thereby was done for <hi>Pharaoh,</hi> and all <hi>Egypt,</hi> the ſtory ſheweth. Now
+<pb n="5" facs="tcp:112853:4"/>
+War hath already waſted ſo far, that Famine is alſo come within eve<g ref="char:EOLhyphen"/>ry mans conjecture: Let <hi>England</hi> be perſwaded to remove both theſe evills, and to procure Peace and Plenty at a cheaper rate then <hi>Egypt</hi> did; for the <hi>Egyptians</hi> lives were ſaved indeed, but that coſt them all that they had, except their Idolatry, their Goods, Lands, and Li<g ref="char:EOLhyphen"/>berties. But this abſtinence, beſide the ſaving of our Lives (with the lords bleſſing) will alſo preſerve unto us our Goods, Lands, Laws, Liberties, and true Religion. Arguments enough, if any be ſuffici<g ref="char:EOLhyphen"/>ent to perſwade people, with ſo much eaſe and accomodation to at<g ref="char:EOLhyphen"/>tain theſe four excellent aims or ends: 1. The compleating of theſe ſo neceſſary new Regiments of Horſe and Foot for our own ſafety. 2. The maintaining of the War (the onely way to a good and godly Peace.) 3. The prevention of Famine (which otherwiſe ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th unavoidable.) 4. And laſtly, the eaſing all men from their Contribu<g ref="char:EOLhyphen"/>tions, which otherwiſe muſt continue, yea, become more grievous, if this courſe be not taken.</p>
+            <p n="11">11. The Spirituall and Temporall Watch-men, Magiſtrates and Miniſters, mentioned <hi>Ezek.</hi> 33. (except ſuch as be contented God ſhould require the ſoul, and body blood of the unwarned people at their hands) will doubtleſſe give the people warning, and do what they can to move them to apply the reme<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies. And <hi>Neb.</hi> 5. 7. pre<g ref="char:EOLhyphen"/>ſenteth them a prevalent preſident; when he could not otherwiſe get the Uſurers to remit their intereſt, he ſet a great Aſſembly againſt them, to cry ſhame of them: though the belly (as the Proverb ſpeak<g ref="char:EOLhyphen"/>eth) hath no ears, yet if almoſt a whole Pariſh cry out of one ſo bru<g ref="char:EOLhyphen"/>tiſh obedient unto his belly, that would not thus abſtain and give, doubtl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe he would either hearken unto them, and come in, or elſe flie upon ſuch a hue and cry.</p>
+            <p n="12">12. All good men now are as buſie as Bees at this time of the yeer, exampling and provoking one another unto good works, eſpecially ſuch as tend to the advancement of Chriſts Kingdom and his Churches deliverance, and now (as in <hi>Iſaiahs</hi> time, Ch. 37.) children are come to the birth, and there is no ſtrength to bring forth: will women (<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ready to aſſiſt one another in child bearing) do nothing for Chriſt? (Hath he ſhewed no love u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to them, or done nothing for them;) y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, to do them no wrong by ſilence, they have (above what men have done) faſted and prayed, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to do ſtill; and in this City, how did many a <hi>Dorcus</hi> ſend lately, Shirts, Stockins, and other neceſſaries; yea, and meat and drink unto Chriſts poor Souldiers that fight againſt
+<pb n="6" facs="tcp:112853:5"/>
+Antichriſts, and ſhall hear him at the laſt day ſay unto them, In as much as ye have done it unto the leaſt of theſe my Brethren, yea have done it unto me? <hi>Let them not be weary in well doing, for Gal. 6. 9. i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> due ſeaſon they ſhall reap, if they faint not.</hi> The wiſe woman of <hi>Abel, 2 Sam.</hi> 20. was able to perſwade the whole City for its own ſafety: if women will ſtudy (as they do to obtain their own deſires in things concerning themſelves) and make uſe of theſe and the like Argu<g ref="char:EOLhyphen"/>ments, which of them is there not, but with prayer, endeavour, and the Lords bleſſing, may prevail with all in their Families, to yeeld un<g ref="char:EOLhyphen"/>to this abſtinence and contribution? And if any wife to obtain thus much, beſtowed upon an unwil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing husband, ſome of thoſe tears (if ſhe had no more) which ſhe uſeth to waſh Chriſts feet withall, in the dayes of her humiliation: without all queſtion, the Lord Jeſus would like it as well, as if ſhe beſtowed them more immediately upon him<g ref="char:EOLhyphen"/>ſelf. Have not women generally the diſpoſing of meats and drinks in Families? Let them undertake (if they thus diſpence) that God will ſo <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe the food of that Family (though it were but pulſe and water, and ſo much leſſe of it) that all in the houſe (like <hi>Daniel</hi> and his fellows) ſhall look fairer and fatter in fleſh, then any other that do eat daily of any Kings dainties. This work ſeemeth to be moſt proper for women, eſpecially, now when men have ſo many other imployments. And a few of the wiſeſt of them here in <hi>London,</hi> (joyning but together unanimouſly, and appointing ſome of their ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x, fitteſt and moſt active in every Pariſh) might both eaſe the men of this labour, and carry this good work thorow the City firſt, and Kingdom after ward, and be honoured for it both by God and men, in all Countries, and in all ages, and give the Parliament cauſe (as in the like caſe once the Dames of <hi>Rome</hi> did that Senate) to give them p<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ike thanks for their love and care of the Common-wealth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
